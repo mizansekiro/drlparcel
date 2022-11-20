@@ -1152,13 +1152,13 @@ nav.custome-pagination {
 	background-image: url()
 }
 
-.bg-send {
-	background-image: url(/fondo-plano-repartidor-bicicleta_23-2148157037.png);
+/* .bg-send {
+	background-image: url(images/right-img.png);
 	background-position: 30px 70px;
 	background-size: contain;
 	background-repeat: no-repeat;
 	border-radius: 20px;
-}
+} */
 
 .spacing {
 	margin-top: 46px;
